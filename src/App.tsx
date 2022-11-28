@@ -10,7 +10,7 @@ function App() {
 		<div className="App">
 			<p>Message: {surround(message, '[]')}</p>
 			<p>Message: {surround(message, brackets)}</p>
-			<p>Message: {surround(message, '**')}</p>
+			<p>Message: {surround(message, '***')}</p>
 			<p>Message: {surround(message, 'skdfjskdfj')}</p>
 		</div>
 	);
